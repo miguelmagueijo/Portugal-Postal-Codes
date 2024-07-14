@@ -1,0 +1,762 @@
+code,name
+6061,Castelo Branco
+3750,Aveiro
+3754,Aveiro
+3850,Aveiro
+3780,Aveiro
+4540,Aveiro
+3800,Aveiro
+3810,Aveiro
+3814,Aveiro
+3804,Aveiro
+3813,Aveiro
+4550,Aveiro
+4500,Aveiro
+4504,Aveiro
+3860,Aveiro
+3865,Aveiro
+3864,Aveiro
+4505,Aveiro
+3700,Aveiro
+4525,Aveiro
+4520,Aveiro
+4535,Aveiro
+3830,Aveiro
+3020,Aveiro
+3050,Aveiro
+3054,Aveiro
+3870,Aveiro
+3720,Aveiro
+3770,Aveiro
+3774,Aveiro
+3885,Aveiro
+3880,Aveiro
+3884,Aveiro
+3701,Aveiro
+3740,Aveiro
+3744,Aveiro
+3840,Aveiro
+3730,Aveiro
+3734,Aveiro
+7600,Beja
+7604,Beja
+7700,Beja
+7920,Beja
+7924,Beja
+7230,Beja
+7800,Beja
+7801,Beja
+7780,Beja
+7940,Beja
+7900,Beja
+7750,Beja
+7754,Beja
+7885,Beja
+7860,Beja
+7864,Beja
+7875,Beja
+7630,Beja
+7665,Beja
+7645,Beja
+7670,Beja
+7830,Beja
+7960,Beja
+4720,Braga
+4775,Braga
+4905,Braga
+4755,Braga
+4740,Braga
+4750,Braga
+4754,Braga
+4705,Braga
+4709,Braga
+4700,Braga
+4704,Braga
+4715,Braga
+4710,Braga
+4714,Braga
+4719,Braga
+4860,Braga
+4890,Braga
+4820,Braga
+4615,Braga
+4824,Braga
+4800,Braga
+4805,Braga
+4809,Braga
+4810,Braga
+4815,Braga
+4835,Braga
+4765,Braga
+4804,Braga
+4814,Braga
+4839,Braga
+4830,Braga
+4840,Braga
+4845,Braga
+4850,Braga
+4770,Braga
+4760,Braga
+4763,Braga
+4764,Braga
+4730,Braga
+4620,Braga
+5350,Bragança
+5300,Bragança
+5301,Bragança
+5140,Bragança
+5180,Bragança
+5340,Bragança
+5225,Bragança
+5210,Bragança
+5370,Bragança
+5385,Bragança
+5374,Bragança
+5200,Bragança
+5204,Bragança
+5160,Bragança
+5164,Bragança
+5360,Bragança
+5230,Bragança
+5335,Bragança
+5320,Bragança
+6250,Castelo Branco
+6005,Castelo Branco
+6000,Castelo Branco
+6004,Castelo Branco
+6200,Castelo Branco
+6225,Castelo Branco
+6215,Castelo Branco
+6201,Castelo Branco
+6230,Castelo Branco
+6185,Castelo Branco
+6060,Castelo Branco
+6160,Castelo Branco
+6090,Castelo Branco
+6320,Castelo Branco
+6150,Castelo Branco
+6100,Castelo Branco
+6110,Castelo Branco
+6030,Castelo Branco
+3300,Coimbra
+3305,Coimbra
+3060,Coimbra
+3064,Coimbra
+3040,Coimbra
+3045,Coimbra
+3030,Coimbra
+3044,Coimbra
+3000,Coimbra
+3025,Coimbra
+3004,Coimbra
+3049,Coimbra
+3034,Coimbra
+3048,Coimbra
+3150,Coimbra
+3154,Coimbra
+3090,Coimbra
+3080,Coimbra
+3094,Coimbra
+3084,Coimbra
+3330,Coimbra
+3334,Coimbra
+3200,Coimbra
+3070,Coimbra
+3074,Coimbra
+3220,Coimbra
+3140,Coimbra
+3144,Coimbra
+3400,Coimbra
+3405,Coimbra
+3404,Coimbra
+3320,Coimbra
+3360,Coimbra
+3230,Coimbra
+3234,Coimbra
+3130,Coimbra
+3420,Coimbra
+3350,Coimbra
+7250,Évora
+7200,Évora
+7040,Évora
+7150,Évora
+7154,Évora
+7100,Évora
+7005,Évora
+7000,Évora
+7009,Évora
+7004,Évora
+7050,Évora
+7490,Évora
+7240,Évora
+7244,Évora
+7220,Évora
+7170,Évora
+2965,Évora
+7080,Évora
+7090,Évora
+7160,Évora
+8200,Faro
+8201,Faro
+8203,Faro
+8970,Faro
+8670,Faro
+8950,Faro
+8954,Faro
+8005,Faro
+8009,Faro
+8000,Faro
+8004,Faro
+8400,Faro
+8401,Faro
+8600,Faro
+8604,Faro
+8601,Faro
+8135,Faro
+8100,Faro
+8104,Faro
+8125,Faro
+8136,Faro
+8550,Faro
+8700,Faro
+8500,Faro
+8501,Faro
+8150,Faro
+8365,Faro
+8375,Faro
+8300,Faro
+8800,Faro
+8801,Faro
+8804,Faro
+8650,Faro
+8900,Faro
+3570,Guarda
+6355,Guarda
+6350,Guarda
+6360,Guarda
+6440,Guarda
+6370,Guarda
+6290,Guarda
+6294,Guarda
+6300,Guarda
+6301,Guarda
+6260,Guarda
+6264,Guarda
+6430,Guarda
+6400,Guarda
+6324,Guarda
+6270,Guarda
+6274,Guarda
+6285,Guarda
+6420,Guarda
+3640,Guarda
+6424,Guarda
+5150,Guarda
+5155,Guarda
+2460,Leiria
+2461,Leiria
+2475,Leiria
+2445,Leiria
+3250,Leiria
+3254,Leiria
+3260,Leiria
+3240,Leiria
+2440,Leiria
+2495,Leiria
+2540,Leiria
+2500,Leiria
+2504,Leiria
+3280,Leiria
+2400,Leiria
+2404,Leiria
+2420,Leiria
+2424,Leiria
+2425,Leiria
+2415,Leiria
+2419,Leiria
+2410,Leiria
+2414,Leiria
+2405,Leiria
+2423,Leiria
+2499,Leiria
+2430,Leiria
+2434,Leiria
+2450,Leiria
+2510,Leiria
+3270,Leiria
+2525,Leiria
+2520,Leiria
+3105,Leiria
+3100,Leiria
+3104,Leiria
+2480,Leiria
+2485,Leiria
+2484,Leiria
+2580,Lisboa
+2584,Lisboa
+2581,Lisboa
+2630,Lisboa
+2634,Lisboa
+2050,Lisboa
+2065,Lisboa
+2054,Lisboa
+2550,Lisboa
+2755,Lisboa
+2645,Lisboa
+2649,Lisboa
+2756,Lisboa
+2785,Lisboa
+2775,Lisboa
+2779,Lisboa
+2750,Lisboa
+2754,Lisboa
+2765,Lisboa
+2769,Lisboa
+2789,Lisboa
+1700,Lisboa
+1950,Lisboa
+1900,Lisboa
+1500,Lisboa
+1150,Lisboa
+1949,Lisboa
+1100,Lisboa
+1170,Lisboa
+1200,Lisboa
+1750,Lisboa
+1250,Lisboa
+1070,Lisboa
+1269,Lisboa
+1099,Lisboa
+1350,Lisboa
+1399,Lisboa
+1800,Lisboa
+1400,Lisboa
+1300,Lisboa
+1149,Lisboa
+1600,Lisboa
+1749,Lisboa
+1000,Lisboa
+1249,Lisboa
+1849,Lisboa
+1199,Lisboa
+1050,Lisboa
+1069,Lisboa
+1649,Lisboa
+1169,Lisboa
+1349,Lisboa
+1959,Lisboa
+1449,Lisboa
+1769,Lisboa
+1990,Lisboa
+1049,Lisboa
+1549,Lisboa
+1748,Lisboa
+1998,Lisboa
+1999,Lisboa
+1098,Lisboa
+1068,Lisboa
+1067,Lisboa
+2680,Lisboa
+2695,Lisboa
+2699,Lisboa
+2670,Lisboa
+2674,Lisboa
+2681,Lisboa
+2660,Lisboa
+1885,Lisboa
+1886,Lisboa
+2685,Lisboa
+2689,Lisboa
+2688,Lisboa
+2690,Lisboa
+2694,Lisboa
+2691,Lisboa
+2664,Lisboa
+2530,Lisboa
+2665,Lisboa
+2655,Lisboa
+2640,Lisboa
+2644,Lisboa
+2659,Lisboa
+2669,Lisboa
+1495,Lisboa
+1499,Lisboa
+2730,Lisboa
+2734,Lisboa
+2740,Lisboa
+2790,Lisboa
+2794,Lisboa
+2795,Lisboa
+2799,Lisboa
+2780,Lisboa
+2784,Lisboa
+2760,Lisboa
+2761,Lisboa
+2770,Lisboa
+2774,Lisboa
+2744,Lisboa
+2705,Lisboa
+2715,Lisboa
+2605,Lisboa
+2609,Lisboa
+2745,Lisboa
+2735,Lisboa
+2739,Lisboa
+2710,Lisboa
+2725,Lisboa
+2729,Lisboa
+2718,Lisboa
+2749,Lisboa
+2635,Lisboa
+2639,Lisboa
+2709,Lisboa
+2714,Lisboa
+2719,Lisboa
+2706,Lisboa
+2590,Lisboa
+2594,Lisboa
+2565,Lisboa
+2560,Lisboa
+2600,Lisboa
+2601,Lisboa
+2615,Lisboa
+2619,Lisboa
+2625,Lisboa
+2626,Lisboa
+2628,Lisboa
+2629,Lisboa
+2720,Lisboa
+2650,Lisboa
+2700,Lisboa
+2614,Lisboa
+2610,Lisboa
+2724,Lisboa
+2654,Lisboa
+2704,Lisboa
+1685,Lisboa
+1689,Lisboa
+2675,Lisboa
+2620,Lisboa
+1675,Lisboa
+1679,Lisboa
+2621,Lisboa
+7440,Portalegre
+7340,Portalegre
+7480,Portalegre
+7370,Portalegre
+7374,Portalegre
+7320,Portalegre
+7430,Portalegre
+7350,Portalegre
+7354,Portalegre
+7460,Portalegre
+7464,Portalegre
+6040,Portalegre
+7330,Portalegre
+7450,Portalegre
+6050,Portalegre
+7425,Portalegre
+7400,Portalegre
+7300,Portalegre
+7301,Portalegre
+7470,Portalegre
+4600,Porto
+4605,Porto
+5040,Porto
+4640,Porto
+4650,Porto
+4610,Porto
+4614,Porto
+4435,Porto
+4515,Porto
+4510,Porto
+4420,Porto
+4424,Porto
+4624,Porto
+4470,Porto
+4475,Porto
+4425,Porto
+4474,Porto
+4479,Porto
+4477,Porto
+4471,Porto
+4625,Porto
+4630,Porto
+4635,Porto
+4634,Porto
+4575,Porto
+4460,Porto
+4455,Porto
+4465,Porto
+4450,Porto
+4454,Porto
+4459,Porto
+4458,Porto
+4464,Porto
+4595,Porto
+4590,Porto
+4594,Porto
+4599,Porto
+4585,Porto
+4580,Porto
+4560,Porto
+4564,Porto
+4150,Porto
+4200,Porto
+4350,Porto
+4250,Porto
+4000,Porto
+4049,Porto
+4169,Porto
+4050,Porto
+4100,Porto
+4300,Porto
+4349,Porto
+4149,Porto
+4099,Porto
+4269,Porto
+4249,Porto
+4369,Porto
+4199,Porto
+4495,Porto
+4490,Porto
+4570,Porto
+4825,Porto
+4780,Porto
+4795,Porto
+4445,Porto
+4440,Porto
+4480,Porto
+4485,Porto
+4486,Porto
+4484,Porto
+4410,Porto
+4430,Porto
+4434,Porto
+4414,Porto
+4415,Porto
+4400,Porto
+4405,Porto
+4404,Porto
+4409,Porto
+4745,Porto
+4785,Porto
+2200,Santarém
+2205,Santarém
+2230,Santarém
+2380,Santarém
+2384,Santarém
+2395,Santarém
+2080,Santarém
+2090,Santarém
+2130,Santarém
+2135,Santarém
+2890,Santarém
+2139,Santarém
+2070,Santarém
+2140,Santarém
+2250,Santarém
+2100,Santarém
+2330,Santarém
+2334,Santarém
+2240,Santarém
+2150,Santarém
+2154,Santarém
+6120,Santarém
+2040,Santarém
+2120,Santarém
+2125,Santarém
+2124,Santarém
+2005,Santarém
+2025,Santarém
+2000,Santarém
+2004,Santarém
+2009,Santarém
+2300,Santarém
+2305,Santarém
+2350,Santarém
+2260,Santarém
+2435,Santarém
+2490,Santarém
+7580,Setúbal
+7595,Setúbal
+2894,Setúbal
+2800,Setúbal
+2810,Setúbal
+2805,Setúbal
+2809,Setúbal
+2814,Setúbal
+2804,Setúbal
+2825,Setúbal
+2829,Setúbal
+2820,Setúbal
+2815,Setúbal
+2819,Setúbal
+2821,Setúbal
+2830,Setúbal
+2834,Setúbal
+2835,Setúbal
+2839,Setúbal
+7570,Setúbal
+2860,Setúbal
+2864,Setúbal
+2870,Setúbal
+2985,Setúbal
+2950,Setúbal
+2955,Setúbal
+2954,Setúbal
+2959,Setúbal
+2951,Setúbal
+7540,Setúbal
+7565,Setúbal
+7555,Setúbal
+7500,Setúbal
+2840,Setúbal
+2865,Setúbal
+2845,Setúbal
+2848,Setúbal
+2855,Setúbal
+2844,Setúbal
+2975,Setúbal
+2970,Setúbal
+2900,Setúbal
+2910,Setúbal
+2904,Setúbal
+2914,Setúbal
+2925,Setúbal
+2929,Setúbal
+7520,Setúbal
+4970,Viana do Castelo
+4974,Viana do Castelo
+4910,Viana do Castelo
+4914,Viana do Castelo
+4960,Viana do Castelo
+4964,Viana do Castelo
+4950,Viana do Castelo
+4940,Viana do Castelo
+4944,Viana do Castelo
+4980,Viana do Castelo
+4990,Viana do Castelo
+4930,Viana do Castelo
+4900,Viana do Castelo
+4925,Viana do Castelo
+4935,Viana do Castelo
+4939,Viana do Castelo
+4904,Viana do Castelo
+4920,Viana do Castelo
+4924,Viana do Castelo
+5070,Vila Real
+5085,Vila Real
+5460,Vila Real
+5400,Vila Real
+5425,Vila Real
+4880,Vila Real
+5470,Vila Real
+5090,Vila Real
+5050,Vila Real
+5054,Vila Real
+4870,Vila Real
+5060,Vila Real
+5030,Vila Real
+5430,Vila Real
+5445,Vila Real
+5450,Vila Real
+5000,Vila Real
+5004,Vila Real
+5110,Viseu
+5114,Viseu
+3430,Viseu
+3600,Viseu
+4690,Viseu
+5100,Viseu
+3530,Viseu
+3534,Viseu
+3620,Viseu
+3624,Viseu
+3450,Viseu
+3525,Viseu
+3520,Viseu
+3475,Viseu
+3680,Viseu
+3550,Viseu
+3630,Viseu
+4660,Viseu
+4664,Viseu
+3440,Viseu
+5130,Viseu
+3660,Viseu
+3560,Viseu
+3650,Viseu
+5120,Viseu
+3610,Viseu
+3465,Viseu
+3460,Viseu
+3464,Viseu
+3654,Viseu
+3505,Viseu
+3510,Viseu
+3515,Viseu
+3500,Viseu
+3514,Viseu
+3504,Viseu
+3519,Viseu
+3503,Viseu
+3670,Viseu
+9370,Região autónoma da Madeira
+9385,Região autónoma da Madeira
+9374,Região autónoma da Madeira
+9300,Região autónoma da Madeira
+9304,Região autónoma da Madeira
+9030,Região autónoma da Madeira
+9325,Região autónoma da Madeira
+9000,Região autónoma da Madeira
+9060,Região autónoma da Madeira
+9020,Região autónoma da Madeira
+9050,Região autónoma da Madeira
+9004,Região autónoma da Madeira
+9064,Região autónoma da Madeira
+9054,Região autónoma da Madeira
+9024,Região autónoma da Madeira
+9200,Região autónoma da Madeira
+9225,Região autónoma da Madeira
+9360,Região autónoma da Madeira
+9270,Região autónoma da Madeira
+9350,Região autónoma da Madeira
+9135,Região autónoma da Madeira
+9125,Região autónoma da Madeira
+9100,Região autónoma da Madeira
+9230,Região autónoma da Madeira
+9240,Região autónoma da Madeira
+9400,Região autónoma da Madeira
+9580,Região autónoma dos Açores
+9560,Região autónoma dos Açores
+9630,Região autónoma dos Açores
+9545,Região autónoma dos Açores
+9555,Região autónoma dos Açores
+9500,Região autónoma dos Açores
+9504,Região autónoma dos Açores
+9650,Região autónoma dos Açores
+9675,Região autónoma dos Açores
+9600,Região autónoma dos Açores
+9625,Região autónoma dos Açores
+9680,Região autónoma dos Açores
+9684,Região autónoma dos Açores
+9700,Região autónoma dos Açores
+9701,Região autónoma dos Açores
+9760,Região autónoma dos Açores
+9880,Região autónoma dos Açores
+9850,Região autónoma dos Açores
+9875,Região autónoma dos Açores
+9800,Região autónoma dos Açores
+9804,Região autónoma dos Açores
+9930,Região autónoma dos Açores
+9934,Região autónoma dos Açores
+9950,Região autónoma dos Açores
+9940,Região autónoma dos Açores
+9944,Região autónoma dos Açores
+9900,Região autónoma dos Açores
+9901,Região autónoma dos Açores
+9904,Região autónoma dos Açores
+9960,Região autónoma dos Açores
+9970,Região autónoma dos Açores
+9980,Região autónoma dos Açores
